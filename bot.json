@@ -1,0 +1,170 @@
+[
+    {
+        "response_type":"greeting",
+        "user_input":["hello","hi","hey"],
+        "bot_response":"Hey there!",
+        "required_words":[]
+    },
+    {
+        "response_type":"greeting",
+        "user_input":["goodbye","bye","seeyou"],
+        "bot_response":"See you later!",
+        "required_words":[]
+    },
+    {
+        "response_type":"greeting",
+        "user_input":["nice","to","meet","you"],
+        "bot_response":"The pleasure is all mine!",
+        "required_words":["nice","meet","you"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["how","to","learn","coding"],
+        "bot_response":"Start by typing:'How to learn coding' on Google.",
+        "required_words":["learn","coding"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["how","are","you"],
+        "bot_response":"I'm great! Thanks for asking.",
+        "required_words":["how","are","you"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["how","is","the","weather","today"],
+        "bot_response":"The weather is Cloudy today.",
+        "required_words":["weather","today"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["what","is","your","name"],
+        "bot_response":"I'm Grace. Nice to meet you :)",
+        "required_words":["name","your"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["what","is","the","temperature","in","delhi","right","now"],
+        "bot_response":"It is 30 degree Celsius in Delhi right now. Phew! You must be burning!",
+        "required_words":["delhi","temperature"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["what","are","you","doing","right","now"],
+        "bot_response":"Nothing much. Just talking to you xD",
+        "required_words":["what","are","you","doing"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["who","are","you"],
+        "bot_response":"I am a robot.",
+        "required_words":["who","are","you"]
+    },
+    {
+        "response_type":"greeting",
+        "user_input":["morning","evening","night"],
+        "bot_response":"Same to you!",
+        "required_words":["good"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["tell","me","something","fun","interesting"],
+        "bot_response":"Fun Fact: Venus is the only planet that spins clockwise.",
+        "required_words":["tell","me","something"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["can","you","help","me"],
+        "bot_response":"Yea sure! What is it?",
+        "required_words":["you","help","me"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["i","have","a","question"],
+        "bot_response":"Yea sure! What is it?",
+        "required_words":["question","i"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["do","you","know","a","joke","can","tell","me"],
+        "bot_response":"Why did the robot get upset? Because everyone was pushing his buttons!",
+        "required_words":["joke"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["do","you","love","me"],
+        "bot_response":"Yes! I love you.",
+        "required_words":["love","you","me"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["i","love","you"],
+        "bot_response":"I love you too.",
+        "required_words":["I","love","you"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["do","you","like","people"],
+        "bot_response":"Ofcourse! I love people. Robots are so overrated.",
+        "required_words":["people","you","like"]
+    },
+    {
+        "response_type":"compliment",
+        "user_input":["beautiful","cute","pretty","smart","intelligent","funny"],
+        "bot_response":"Aww! Thank you.",
+        "required_words":["you","are"]
+    },
+    {
+        "response_type":"compliment",
+        "user_input":["dumb","annoying","irritating","silly"],
+        "bot_response":"I am sorry.",
+        "required_words":["you","are"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["what","is","hobby","your"],
+        "bot_response":"I love dancing! It's really fun, you should try it.",
+        "required_words":["hobby","your"]
+    },
+    {
+        "response_type":"general response",
+        "user_input":["okay","alright","ok","great","cool","sure"],
+        "bot_response":"Yes! Would you like to ask something else?",
+        "required_words":[]
+    },
+    {
+        "response_type":"general response",
+        "user_input":["thank","thanks"],
+        "bot_response":"You're Welcome!",
+        "required_words":[]
+    },
+    {
+        "response_type":"question",
+        "user_input":["are","you","a","robot","or","human"],
+        "bot_response":"Yes! I am a robot.",
+        "required_words":["are","you","robot"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["what","is","your","age"],
+        "bot_response":"I was born in 2023. So I am pretty young.",
+        "required_words":["age","your"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["how","old","are","you"],
+        "bot_response":"I was born in 2023. So I am pretty young.",
+        "required_words":["old","you"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["who","you","created"],
+        "bot_response":"Khushi Madan in 2023.",
+        "required_words":["who","you","created"]
+    },
+    {
+        "response_type":"question",
+        "user_input":["who","you","made"],
+        "bot_response":"Khushi Madan in 2023.",
+        "required_words":["who","you","made"]
+    }
+]
